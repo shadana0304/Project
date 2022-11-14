@@ -14,11 +14,20 @@ public class GitClass {
 
  	}
      
+     private void method4() {
+    	 System.out.println("carrot");
+
+ 	}
      
+     private void method5() {
+    	 System.out.println("bean");
+
+ 	}
      
-     
-     
-     
+     private void method6() {
+    	 System.out.println("beetroot");
+
+ 	}
      
      
      
